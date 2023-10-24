@@ -12,8 +12,12 @@ public class Mouse_click_manager : MonoBehaviour
 
     private void OnMouseDown()
     {
+        if (_audio != null)
+        {
+            _audio.Play();
+        }
+
         _animator.SetTrigger(Constants.Animation.Mouse_click);
-        _audio.Play();
         Mouse_cliked?.Invoke();
     }
 }
