@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(Mouse_click_manager))]
-public class Button_manager : MonoBehaviour
+public class UI_button_activator : MonoBehaviour
 {
     [SerializeField] private Button _scene_change_button;
 
@@ -26,9 +26,7 @@ public class Button_manager : MonoBehaviour
     }
 
     private void OnTurnOnButtonUI()
-    {
-        //Debug.Log("CLICK");
-
+    {        
         if (_scene_change_button.gameObject.active == false)
         {
             _scene_change_button.gameObject.active = true;
