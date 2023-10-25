@@ -56,7 +56,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: treasure_chest_opening_3
+  m_Name: treasure_chest
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: mouse_click
