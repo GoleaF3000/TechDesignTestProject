@@ -556,6 +556,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1008678270621299267, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: m_text
+      value: "\u041F\u0435\u0440\u0435\u0445\u043E\u0434"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1008678270621299267, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: d79dd22c875b25f498b23e6025655cb5, type: 2}
+    - target: {fileID: 1008678270621299267, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 7211203853611847165, guid: d79dd22c875b25f498b23e6025655cb5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
 --- !u!4 &1638883912 stripped
