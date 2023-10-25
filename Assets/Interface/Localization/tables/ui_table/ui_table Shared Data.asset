@@ -19,6 +19,10 @@ MonoBehaviour:
     m_Key: button_change_scene
     m_Metadata:
       m_Items: []
+  - m_Id: 51626061709312
+    m_Key: button_exit
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
