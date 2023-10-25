@@ -558,7 +558,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1008678270621299267, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
       propertyPath: m_text
-      value: "\u041F\u0435\u0440\u0435\u0445\u043E\u0434"
+      value: Next
       objectReference: {fileID: 0}
     - target: {fileID: 1008678270621299267, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
       propertyPath: m_fontAsset
@@ -568,7 +568,68 @@ PrefabInstance:
       propertyPath: m_sharedMaterial
       value: 
       objectReference: {fileID: 7211203853611847165, guid: d79dd22c875b25f498b23e6025655cb5, type: 2}
-    m_RemovedComponents: []
+    - target: {fileID: 6184763210207085638, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: managedReferences[9067531131239792667]
+      value: Unity.Localization UnityEngine.Localization.SmartFormat.PersistentVariables.ByteVariable
+      objectReference: {fileID: 0}
+    - target: {fileID: 6184763210207085638, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: m_StringReference.m_LocalVariables.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6184763210207085638, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: managedReferences[9067531131239792667].m_Value
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6184763210207085638, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: m_StringReference.m_LocalVariables.Array.data[0].name
+      value: variable
+      objectReference: {fileID: 0}
+    - target: {fileID: 6184763210207085638, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: m_StringReference.m_LocalVariables.Array.data[0].variable
+      value: 9067531131239792667
+      objectReference: {fileID: 0}
+    - target: {fileID: 6901201251290624630, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: managedReferences[9067531131867627522]
+      value: Unity.Localization UnityEngine.Localization.LocalizedString
+      objectReference: {fileID: 0}
+    - target: {fileID: 6901201251290624630, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: m_StringReference.m_LocalVariables.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6901201251290624630, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: m_StringReference.m_LocalVariables.Array.data[0].name
+      value: variable
+      objectReference: {fileID: 0}
+    - target: {fileID: 6901201251290624630, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: managedReferences[9067531131867627522].m_FallbackState
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6901201251290624630, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: m_StringReference.m_LocalVariables.Array.data[0].variable
+      value: 9067531131867627522
+      objectReference: {fileID: 0}
+    - target: {fileID: 6901201251290624630, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: managedReferences[9067531131867627522].m_WaitForCompletion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6901201251290624630, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: managedReferences[9067531131867627522].m_LocalVariables.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6901201251290624630, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: managedReferences[9067531131867627522].m_TableEntryReference.m_Key
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6901201251290624630, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: managedReferences[9067531131867627522].m_TableEntryReference.m_KeyId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6901201251290624630, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
+      propertyPath: managedReferences[9067531131867627522].m_TableReference.m_TableCollectionName
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6184763210207085638, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: c8b924246c2b66849afabf29cf1f9316, type: 3}
 --- !u!4 &1638883912 stripped
 Transform:

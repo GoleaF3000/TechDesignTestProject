@@ -10,19 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
-  m_Name: table_ui Shared Data
+  m_Name: ui_table Shared Data
   m_EditorClassIdentifier: 
-  m_TableCollectionName: table_ui
-  m_TableCollectionNameGuidString: 00000000000000000000000000000000
-  m_Entries: []
+  m_TableCollectionName: ui_table
+  m_TableCollectionNameGuidString: b24e3df7418439249acb385b20da3796
+  m_Entries:
+  - m_Id: 300325912576
+    m_Key: button_change_scene
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
-    rid: 9067531131239792665
+    rid: 9067531131867627526
   references:
     version: 2
     RefIds:
-    - rid: 9067531131239792665
+    - rid: 9067531131867627526
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
-        m_CustomEpoch: 1698222014218
+        m_CustomEpoch: 1698224335388
